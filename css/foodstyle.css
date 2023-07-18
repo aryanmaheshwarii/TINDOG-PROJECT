@@ -1,0 +1,20 @@
+h1{
+    color: #32a1ce;
+}
+.pancakes{
+    background-color: darkseagreen;
+}
+.burger{
+    background-color: cornflowerblue;
+}
+#para1{
+    background-color: chocolate;
+}
+#heading{
+    background-color: lightcyan;
+    color: #113848;
+}
+img:hover{
+    background-color: goldenrod;
+
+}

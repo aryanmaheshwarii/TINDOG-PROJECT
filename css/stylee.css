@@ -1,0 +1,25 @@
+body{
+    background-color: #B5F1CC;
+ }
+ hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 30%;
+ }
+ h1{
+    background-color: rgb(144, 175, 165);
+    color: green;
+    font-style: oblique;
+ }
+ h3{
+    background-color: rgb(144, 175, 165);
+    color: green;
+    font-style: oblique;
+ }
+ h2{
+    background-color: rgb(144, 175, 165);
+    color: green;
+    font-style: oblique;
+ }
